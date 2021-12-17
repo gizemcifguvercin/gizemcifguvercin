@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Hepsiburada
-- 🌱 I’m currently learning Go
 - 💬 Ask me about anything
 - 📫 How to reach me: gizemcifguvercin@gmail.com
 
