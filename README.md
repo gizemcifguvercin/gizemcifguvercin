@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Hepsiburada
 - 💬 Ask me about anything
 - 📫 How to reach me: gizemcifguvercin@gmail.com
 
